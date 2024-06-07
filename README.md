@@ -26,20 +26,20 @@ The **<strong style="color: rgb(106, 154, 225);">E3AD</strong>** framework bridg
 
 ## Chain-of-thought Prompt
 
-![Chain of Thought](/static/images/cot.png)
+![Chain of Thought](./static/images/cot.png)
 *Illustration of the chain-of-thought prompting used in DrivePilot to generate semantic annotations for a given traffic scene.*
 
 
 
 ## Overview Model
 
-![Model](/static/images/Model.png)  *Overall framework of E3AD. It is an ethical end-to-end autonomous driving framework and includes four steps: Multimodal Input Fusion, Visual Grounding, Ethical Trajectory Planning, and Linguistic Feedback.*
+![Model](./static/images/Model.png)  *Overall framework of E3AD. It is an ethical end-to-end autonomous driving framework and includes four steps: Multimodal Input Fusion, Visual Grounding, Ethical Trajectory Planning, and Linguistic Feedback.*
 
 
 
 ## Ethics Analysis and Linguistic Response
 
-![Third Image](/static/images/oumengxin.png)*Illustration of the Ethics Analysis and Linguistic Response. Based on multi-modal inputs, the ethics analysis is formulated around three considerations: legality, safety, and equality. GPT-4V then generates a linguistic response for passengers, informing them of the selected plan and relevant recommendations.*
+![Third Image](./static/images/oumengxin.png)*Illustration of the Ethics Analysis and Linguistic Response. Based on multi-modal inputs, the ethics analysis is formulated around three considerations: legality, safety, and equality. GPT-4V then generates a linguistic response for passengers, informing them of the selected plan and relevant recommendations.*
 
 
 
