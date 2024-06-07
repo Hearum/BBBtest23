@@ -43,7 +43,8 @@ The **<strong style="color: rgb(106, 154, 225);">E3AD</strong>** framework bridg
 
 
 
-## Visualization![Fifth Image](/static/images/visualization_2.png)
+## Visualization
+![Fifth Image](./static/images/visualization_2.png)
 
 
 
