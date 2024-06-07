@@ -33,7 +33,7 @@ The **<strong style="color: rgb(106, 154, 225);">E3AD</strong>** framework bridg
 
 ## Overview Model
 
-![Model](./static/images/Model.png)  *Overall framework of E3AD. It is an ethical end-to-end autonomous driving framework and includes four steps: Multimodal Input Fusion, Visual Grounding, Ethical Trajectory Planning, and Linguistic Feedback.*
+![Model](https://krseoul.imgtbl.com/i/2024/06/07/6662d0a359bb8.png)  *Overall framework of E3AD. It is an ethical end-to-end autonomous driving framework and includes four steps: Multimodal Input Fusion, Visual Grounding, Ethical Trajectory Planning, and Linguistic Feedback.*
 
 
 
