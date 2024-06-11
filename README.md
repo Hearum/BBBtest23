@@ -57,7 +57,7 @@ It is imperative that autonomous vehicles engage with other road users in an eth
 
 
 <div align="center">
-  <img src="static/images/oumengxin.png" width="100%" alt="Visual Image" />
+  <img src="static/images/oumengxin.png" width="80%" alt="Visual Image" />
 </div>
 
 *Illustration of the Ethics Analysis and Linguistic Response. Based on multi-modal inputs, the ethics analysis is formulated around three considerations: legality, safety, and equality. GPT-4V then generates a linguistic response for passengers, informing them of the selected plan and relevant recommendations.*
@@ -80,11 +80,11 @@ DrivePilot is pioneering in leveraging the linguistic capabilities of GPT-4V for
 ## Comparison against state-of-the-art
 
 <div align="center">
-  <img src="static/images/table1.jpg" width="90%" alt="Visual Image" />
+  <img src="static/images/Table1.jpg" width="80%" alt="Visual Image" />
 </div>
 
 <div align="center">
-  <img src="static/images/table2.png" width="90%" alt="Visual Image" />
+  <img src="static/images/Table2.png" width="80%" alt="Visual Image" />
 </div>
 
 ## How to get Start
