@@ -5,15 +5,15 @@
 
 <div align="center">
   <a href="https://anonymous.4open.science/r/E3AD-6711/" style="text-decoration:none;">
-    <img src="static/images/pic1.png" width="10%" alt="Code" />
+    <img src="static/images/pic1.png" width="15%" alt="Code" />
   </a>
   <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="10%" alt="" />
   <a href="https://a1198482817a.github.io/AAAtest/" style="text-decoration:none;">
-    <img src="static/images/pic2.png"width="10%" alt="Website" />
+    <img src="static/images/pic2.png"width="15%" alt="Website" />
   </a>
    <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="10%" alt="" />
   <a href="https://a1198482817a.github.io/AAAtest/" style="text-decoration:none;">
-    <img src="static/images/pic3.png"width="10%" alt="Website" />
+    <img src="static/images/pic3.png"width="15%" alt="Website" />
   </a>
 </div>
 
@@ -43,7 +43,7 @@ The E3AD framework features a comprehensive pipeline designed to foster a human-
 - **Linguistic Feedback**: The final step enhances human-AI interaction by providing a verbal response to passengers, thereby enriching the driving experience with responsive and context-aware communication.
 
 <div align="center">
-  <img src="static/images/Model.png" width="80%" alt="Visual Image" />
+  <img src="static/images/Model.png" width="90%" alt="Visual Image" />
 </div>
 
   *Overall framework of E3AD. It is an ethical end-to-end autonomous driving framework and includes four steps: Multimodal Input Fusion, Visual Grounding, Ethical Trajectory Planning, and Linguistic Feedback.*
@@ -57,7 +57,7 @@ It is imperative that autonomous vehicles engage with other road users in an eth
 
 
 <div align="center">
-  <img src="static/images/oumengxin.png" width="80%" alt="Visual Image" />
+  <img src="static/images/oumengxin.png" width="100%" alt="Visual Image" />
 </div>
 
 *Illustration of the Ethics Analysis and Linguistic Response. Based on multi-modal inputs, the ethics analysis is formulated around three considerations: legality, safety, and equality. GPT-4V then generates a linguistic response for passengers, informing them of the selected plan and relevant recommendations.*
@@ -80,11 +80,11 @@ DrivePilot is pioneering in leveraging the linguistic capabilities of GPT-4V for
 ## Comparison against state-of-the-art
 
 <div align="center">
-  <img src="static/images/Table1.jpg" width="80%" alt="Visual Image" />
+  <img src="static/images/Table1.jpg" width="90%" alt="Visual Image" />
 </div>
 
 <div align="center">
-  <img src="static/images/Table2.png" width="80%" alt="Visual Image" />
+  <img src="static/images/Table2.png" width="90%" alt="Visual Image" />
 </div>
 
 ## How to get Start
