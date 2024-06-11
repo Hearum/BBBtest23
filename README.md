@@ -5,15 +5,15 @@
 
 <div align="center">
   <a href="https://anonymous.4open.science/r/E3AD-6711/" style="text-decoration:none;">
-    <img src="static/images/pic1.png" width="15%" alt="Code" />
+    <img src="static/images/pic1.png" width="10%" alt="Code" />
   </a>
   <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="10%" alt="" />
   <a href="https://a1198482817a.github.io/AAAtest/" style="text-decoration:none;">
-    <img src="static/images/pic2.png"width="15%" alt="Website" />
+    <img src="static/images/pic2.png"width="10%" alt="Website" />
   </a>
    <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="10%" alt="" />
   <a href="https://a1198482817a.github.io/AAAtest/" style="text-decoration:none;">
-    <img src="static/images/pic3.png"width="15%" alt="Website" />
+    <img src="static/images/pic3.png"width="10%" alt="Website" />
   </a>
 </div>
 
