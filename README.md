@@ -43,7 +43,7 @@ The E3AD framework features a comprehensive pipeline designed to foster a human-
 - **Linguistic Feedback**: The final step enhances human-AI interaction by providing a verbal response to passengers, thereby enriching the driving experience with responsive and context-aware communication.
 
 <div align="center">
-  <img src="static/images/Model.png" width="90%" alt="Visual Image" />
+  <img src="static/images/Model.png" width="100%" alt="Visual Image" />
 </div>
 
   *Overall framework of E3AD. It is an ethical end-to-end autonomous driving framework and includes four steps: Multimodal Input Fusion, Visual Grounding, Ethical Trajectory Planning, and Linguistic Feedback.*
@@ -71,7 +71,7 @@ Our study introduces the **DrivePilot** dataset, significantly advancing AV rese
 DrivePilot is pioneering in leveraging the linguistic capabilities of GPT-4V for generating detailed scene semantic annotations. As depicted in Fig. \ref{cot}, we employ an innovative zero-shot Chain of Thought (CoT) prompting approach. This method guides GPT-4V through a progressive interpretation of traffic scenarios using step-by-step prompts. These prompts enable the model to learn context and infer meanings in traffic scenes without additional fine-tuning, categorizing scenes across 14 semantic dimensions, including weather, traffic light status, and emotional context. This method sets new standards for depth and contextual richness in visual grounding datasets.
 
 <div align="center">
-  <img src="static/images/cot.png" width="90%" alt="Visual Image" />
+  <img src="static/images/cot.png" width="100%" alt="Visual Image" />
 </div>
 
 
