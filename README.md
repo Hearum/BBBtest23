@@ -3,7 +3,6 @@
   <p>Anonymous Author(s),<br>Anonymous Institution Name<br><sup>*Indicates Equal Contribution</sup></p>
 <div>
 
-
 <div align="center">
   <a href="https://anonymous.4open.science/r/E3AD-6711/" style="text-decoration:none;">
     <img src="static/images/pic1.png" width="18%" alt="Code" />
@@ -32,7 +31,6 @@ The **<strong style="color: rgb(106, 154, 225);">E3AD</strong>** framework bridg
 <div align="center">
   <img src="static/images/cot.png" width="100%" alt="Visual Image" />
 </div>
-
 
 *Illustration of the chain-of-thought prompting used in DrivePilot to generate semantic annotations for a given traffic scene.*
 
